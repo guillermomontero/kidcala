@@ -4,11 +4,11 @@
 
 	@font-face {
 	    font-family: 'Gotham Black';
-	    src: url('http://kidcala.com/css/fonts/Gotham-Black.eot');
-	    src: url('http://kidcala.com/css/fonts/Gotham-Black.eot?#iefix') format('embedded-opentype'),
-	         url('http://kidcala.com/css/fonts/Gotham-Black.woff') format('woff'),
-	         url('http://kidcala.com/css/fonts/Gotham-Black.ttf') format('truetype'),
-	         url('http://kidcala.com/css/fonts/Gotham-Black.svg#Gotham-Black') format('svg');
+	    src: url('./fonts/Gotham-Black.eot');
+	    src: url('./fonts/Gotham-Black.eot?#iefix') format('embedded-opentype'),
+	         url('./fonts/Gotham-Black.woff') format('woff'),
+	         url('./fonts/Gotham-Black.ttf') format('truetype'),
+	         url('./fonts/Gotham-Black.svg#Gotham-Black') format('svg');
 	    font-style: normal;
 	    font-weight: normal;
 	    text-rendering: optimizeLegibility;
@@ -61,9 +61,6 @@
 		.contenido-proximamente img {
 			width: 50%
 		}
-
-			.contenido-proximamente img:hover {
-			}
 
 		.cierre-proximamente {
 			position: absolute;
@@ -274,7 +271,7 @@ button {
 		height: 100vh;
 		padding: 3em;
 		text-align: center;
-		background-image: url('http://kidcala.com/imagenes/home/kidcala-cabecera.jpg');
+		background-image: url('../imagenes/home/kidcala-cabecera.jpg');
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat

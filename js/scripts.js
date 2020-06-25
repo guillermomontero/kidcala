@@ -206,8 +206,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','#');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/acid-dembow-2@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/acid-dembow-2@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/acid-dembow-2.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/acid-dembow-2.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/acid-dembow-2@0,5x.jpg 320w, ./imagenes/trabajos/acid-dembow-2@0,75x.jpg 480w, ./imagenes/trabajos/acid-dembow-2.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/acid-dembow-2.jpg');
 		$('.modificar #imagen').attr('alt','Acid Dembow .02 - Kid Cala');
 
 	});
@@ -223,8 +223,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Juanito La Para (Prod. Kid Cala), Ago. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/mueve-juanito-la-para-prod-kid-cala');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/mueve@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/mueve@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/mueve.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/mueve.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/mueve@0,5x.jpg 320w, ./imagenes/trabajos/mueve@0,75x.jpg 480w, ./imagenes/trabajos/mueve.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/mueve.jpg');
 		$('.modificar #imagen').attr('alt','Mueve - Kid Cala');
 
 	});
@@ -241,8 +241,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Juanito La Para (Prod. Kid Cala), Jul. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/yo-soy-la-para-juanito-la-para-prod-kid-cala');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/yo-soy-la-para@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/yo-soy-la-para@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/yo-soy-la-para.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/yo-soy-la-para.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/yo-soy-la-para@0,5x.jpg 320w, ./imagenes/trabajos/yo-soy-la-para@0,75x.jpg 480w, ./imagenes/trabajos/yo-soy-la-para.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/yo-soy-la-para.jpg');
 		$('.modificar #imagen').attr('alt','Yo soy la Para - Juanito La Para - Kid Cala');
 
 	});
@@ -259,8 +259,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('La Zowi (Kid Cala RMX), Jun. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/la-zowi-bitch-mode-kid-cala-remix');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/bitch-mode@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/bitch-mode@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/bitch-mode.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/bitch-mode.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/bitch-mode@0,5x.jpg 320w, ./imagenes/trabajos/bitch-mode@0,75x.jpg 480w, ./imagenes/trabajos/bitch-mode.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/bitch-mode.jpg');
 		$('.modificar #imagen').attr('alt','Bitch Mode - La Zowi - Kid Cala');
 
 	});
@@ -277,8 +277,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, May. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/pa-ponerte-kid-cala');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/pa-ponerte@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/pa-ponerte@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/pa-ponerte.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/pa-ponerte.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/pa-ponerte@0,5x.jpg 320w, ./imagenes/trabajos/pa-ponerte@0,75x.jpg 480w, ./imagenes/trabajos/pa-ponerte.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/pa-ponerte.jpg');
 		$('.modificar #imagen').attr('alt','PA´PONERTE - Kid Cala');
 
 	});
@@ -295,8 +295,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, Mar. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/acid-dembow');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/acid-dembow@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/acid-dembow@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/acid-dembow.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/acid-dembow.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/acid-dembow@0,5x.jpg 320w, ./imagenes/trabajos/acid-dembow@0,75x.jpg 480w, ./imagenes/trabajos/acid-dembow.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/acid-dembow.jpg');
 		$('.modificar #imagen').attr('alt','Acid Dembow - Kid Cala');
 
 	});
@@ -313,8 +313,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala - Breaking Bass, Ene. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://breakingbassrecords.bandcamp.com/album/colocado-ep');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/colocado@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/colocado@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/colocado.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/colocado.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/colocado@0,5x.jpg 320w, ./imagenes/trabajos/colocado@0,75x.jpg 480w, ./imagenes/trabajos/colocado.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/colocado.jpg');
 		$('.modificar #imagen').attr('alt','Colocado - Breaking Bass - Kid Cala');
 
 	});
@@ -331,8 +331,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Nadia Rose (Kid Cala RMX), Feb. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/nadia-rose-tight-up-kid-cala-remix');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/tight-up@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/tight-up@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/tight-up.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/tight-up.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/tight-up@0,5x.jpg 320w, ./imagenes/trabajos/tight-up@0,75x.jpg 480w, ./imagenes/trabajos/tight-up.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/tight-up.jpg');
 		$('.modificar #imagen').attr('alt','Tight Up - Nadia Rose - Kid Cala');
 
 	});
@@ -349,8 +349,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala - LaSelva Radio, Feb. 2018');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/dark-kid-cala');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/dark@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/dark@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/dark.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/dark.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/dark@0,5x.jpg 320w, ./imagenes/trabajos/dark@0,75x.jpg 480w, ./imagenes/trabajos/dark.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/dark.jpg');
 		$('.modificar #imagen').attr('alt','Dark - LaSelva Radio - Kid Cala');
 
 	});
@@ -367,8 +367,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala - Caballito Netlabel, Jun. 2017');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://soundcloud.com/caballito-netlabel/kid-cala-copacabana');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/copacabana@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/copacabana@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/copacabana.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/copacabana.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/copacabana@0,5x.jpg 320w, ./imagenes/trabajos/copacabana@0,75x.jpg 480w, ./imagenes/trabajos/copacabana.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/copacabana.jpg');
 		$('.modificar #imagen').attr('alt','Copacabana - Caballito Netlabel - Kid Cala');
 
 	});
@@ -385,8 +385,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, Sep. 2017');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/techbow-2-2');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/techbow-02@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/techbow-02@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/techbow-02.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/techbow-02.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/techbow-02@0,5x.jpg 320w, ./imagenes/trabajos/techbow-02@0,75x.jpg 480w, ./imagenes/trabajos/techbow-02.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/techbow-02.jpg');
 		$('.modificar #imagen').attr('alt','Techbow .02 - Kid Cala');
 
 	});
@@ -403,8 +403,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Bad Bunny & Farruko (Kid Cala RMX), Sep. 2017');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/krippy-krush-bad-bunny-farruko-kid-cala-remix');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/krippy-krush@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/krippy-krush@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/krippy-krush.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/krippy-krush.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/krippy-krush@0,5x.jpg 320w, ./imagenes/trabajos/krippy-krush@0,75x.jpg 480w, ./imagenes/trabajos/krippy-krush.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/krippy-krush.jpg');
 		$('.modificar #imagen').attr('alt','Krippy Krush - Bad Bunny & Farruko - Kid Cala');
 
 	});
@@ -421,8 +421,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala & Friends, May. 2017');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/blue-magic-kid-cala-friends');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/blue-magic@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/blue-magic@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/blue-magic.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/blue-magic.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/blue-magic@0,5x.jpg 320w, ./imagenes/trabajos/blue-magic@0,75x.jpg 480w, ./imagenes/trabajos/blue-magic.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/blue-magic.jpg');
 		$('.modificar #imagen').attr('alt','Blue Magic - Kid Cala & Friends');
 
 	});
@@ -439,8 +439,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Rae Sremmurd (Kid Cala RMX), Nov. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/track/black-beatles-rae-sremmurd-kid-cala-remix');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/black-beatles@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/black-beatles@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/black-beatles.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/black-beatles.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/black-beatles@0,5x.jpg 320w, ./imagenes/trabajos/black-beatles@0,75x.jpg 480w, ./imagenes/trabajos/black-beatles.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/black-beatles.jpg');
 		$('.modificar #imagen').attr('alt','Black Beatles - Rae Sremmurd - Kid Cala');
 
 	});
@@ -457,8 +457,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, Mar. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/techbow');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/techbow-01@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/techbow-01@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/techbow-01.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/techbow-01.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/techbow-01@0,5x.jpg 320w, ./imagenes/trabajos/techbow-01@0,75x.jpg 480w, ./imagenes/trabajos/techbow-01.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/techbow-01.jpg');
 		$('.modificar #imagen').attr('alt','Techbow .01 - Kid Cala');
 
 	});
@@ -475,8 +475,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid cala, Mar. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/damnbow-2');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/damnbow@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/damnbow@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/damnbow.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/damnbow.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/damnbow@0,5x.jpg 320w, ./imagenes/trabajos/damnbow@0,75x.jpg 480w, ./imagenes/trabajos/damnbow.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/damnbow.jpg');
 		$('.modificar #imagen').attr('alt','Damnbow - Kid Cala');
 
 	});
@@ -493,8 +493,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid cala, Mar. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/in-out');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/in-out@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/in-out@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/in-out.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/in-out.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/in-out@0,5x.jpg 320w, ./imagenes/trabajos/in-out@0,75x.jpg 480w, ./imagenes/trabajos/in-out.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/in-out.jpg');
 		$('.modificar #imagen').attr('alt','In & Out - Kid Cala');
 
 	});
@@ -511,8 +511,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid cala, Mar. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://kidcala.bandcamp.com/album/rumbahton-2');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/rumbahton-02@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/rumbahton-02@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/rumbahton-02.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/rumbahton-02.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/rumbahton-02@0,5x.jpg 320w, ./imagenes/trabajos/rumbahton-02@0,75x.jpg 480w, ./imagenes/trabajos/rumbahton-02.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/rumbahton-02.jpg');
 		$('.modificar #imagen').attr('alt','Rumbahton .02 - Kid Cala');
 
 	});
@@ -529,8 +529,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid cala, Mar. 2016');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://soundcloud.com/kidcala/sets/rumbahton');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/rumbahton-01@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/rumbahton-01@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/rumbahton-01.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/rumbahton-01.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/rumbahton-01@0,5x.jpg 320w, ./imagenes/trabajos/rumbahton-01@0,75x.jpg 480w, ./imagenes/trabajos/rumbahton-01.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/rumbahton-01.jpg');
 		$('.modificar #imagen').attr('alt','Rumbahton .01 - Kid Cala');
 
 	});
@@ -547,8 +547,8 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala, Mar. 2014');
 		$('.modificar #btnStreamin').html('Streaming');
 		$('.modificar #btnStreamin').attr('href','https://soundcloud.com/kidcala/sets/duro-suave-lento-ep');
-		$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/duro-suave-lento@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/duro-suave-lento@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/duro-suave-lento.jpg 800w');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/duro-suave-lento.jpg');
+		$('.modificar #imagen').attr('srcset','./imagenes/trabajos/duro-suave-lento@0,5x.jpg 320w, ./imagenes/trabajos/duro-suave-lento@0,75x.jpg 480w, ./imagenes/trabajos/duro-suave-lento.jpg 800w');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/duro-suave-lento.jpg');
 		$('.modificar #imagen').attr('alt','Duro, suave y lento - Kid Cala');
 
 	});
@@ -565,7 +565,7 @@ $(document).ready(function(){
 		$('.modificar h4').html('Kid Cala - Caballito Netlabel, Nov. 2012');
 		$('.modificar #btnStreamin').html('Descargar');
 		$('.modificar #btnStreamin').attr('href','http://www.mediafire.com/file/b8ycs014axiab1h/CBLLT040+KID+CALA+-+Musica+pa%C2%B4+bellakial.zip');
-		$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/musica-pa-bellakial.gif');
+		$('.modificar #imagen').attr('src','./imagenes/trabajos/musica-pa-bellakial.gif');
 		$('.modificar #imagen').attr('alt','Música Pa´ Bellakial - Caballito Netlabel - Kid Cala');
 
 	});
@@ -583,8 +583,8 @@ function mostrarMusica() {
 function ocultarMusica() {
 
 	$('.modificar').fadeOut('100');
-	$('.modificar #imagen').attr('srcset','http://kidcala.com/imagenes/trabajos/cover@0,5x.jpg 320w, http://kidcala.com/imagenes/trabajos/cover@0,75x.jpg 480w, http://kidcala.com/imagenes/trabajos/cover.jpg 800w');
-	$('.modificar #imagen').attr('src','http://kidcala.com/imagenes/trabajos/cover.jpg');
+	$('.modificar #imagen').attr('srcset','./imagenes/trabajos/cover@0,5x.jpg 320w, ./imagenes/trabajos/cover@0,75x.jpg 480w, ./imagenes/trabajos/cover.jpg 800w');
+	$('.modificar #imagen').attr('src','./imagenes/trabajos/cover.jpg');
 
 }
 
@@ -646,7 +646,7 @@ function enviar(){
 
 		$.ajax({
 	      	type: 'post',
-	      	url: 'http://kidcala.com/php/formulario.php',
+	      	url: './php/formulario.php',
 	      	data: datos,
 	      	success: function(texto) {
 
